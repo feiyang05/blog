@@ -130,8 +130,8 @@ git push -u origin master
 
         utterances:
             repo: feiyang05/feiyang05.github.io
-            issueTerm: pathname
-            label:
+            issueTerm: title
+            label: comment
 ```
 
 参考文档：  
